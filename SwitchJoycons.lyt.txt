@@ -1,0 +1,7 @@
+Pending buttons:
++
+-
+L
+R
+ZL
+ZR
