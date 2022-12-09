@@ -1,0 +1,8 @@
+chown -h 1000:1000 './Floflis.lyt'
+chmod 0664 './Floflis.lyt'
+/usr/bin/touch -hcmd "2021-10-24 18:59:23.5297880000 -0300" './Floflis.lyt'
+/usr/bin/touch -hcad "2022-12-09 04:27:03.1707104370 -0300" './Floflis.lyt'
+chown -h 1000:1000 './layout'
+chmod 0664 './layout'
+/usr/bin/touch -hcmd "2022-12-09 04:25:53.7387204170 -0300" './layout'
+/usr/bin/touch -hcad "2022-12-09 04:27:03.1707104370 -0300" './layout'
